@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Get help with SMBDrop
+    url: https://smbdrop.com/support?utm_source=github&utm_medium=issues
+    about: Setup help, common fixes and how to contact the developer. Bugs aren't handled on GitHub.
+  - name: Suggest or vote on a feature
+    url: https://apps.apple.com/app/smbdrop/id6804501930?utm_source=github
+    about: Open SMBDrop and go to Settings › Request a Feature. From version 1.5 that's a feature board where you can vote on ideas.
